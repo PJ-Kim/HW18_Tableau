@@ -21,6 +21,7 @@ Visualizations
 Unexpected phenomena:
 1.  There were 10 start stations where the average duration of the ride for 2018 exceed 133 minutes or 2.25 hours. The average for one station, Sullivan Pl & Bedford Ave exceeding 362 minutes or 6 hours!  The average durations for all stations in 2018 was 16 minutes.
 2.  In 2018, of the 17,545,839 Citibike rides in NYC, 20 stations accounted for 5% of the total.
+3. As expected, both the number and duration of CitiBike trips would increase with the warmer months.  That is mostly the case however, the total number of rides drops off dramatically from July to August.  From a high of 1.8 mil to 955k - almost by half.  For comparison, the total rides in February was 1 mil.  The totals for September and the postceding months taper down consistent to the August value.
 
 
 
