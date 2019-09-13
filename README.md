@@ -1,5 +1,9 @@
 # HW18_Tableau
-Tableau homework_Citi bike data
+Tableau homework_Citi bike
+
+link to Peter Kim: Tableau public
+https://public.tableau.com/profile/peter.kim8811#!/vizhome/HW18_CitiBike/
+
 Citi bike data from the calendar year 2018 was aggregrated by month and Start station.
 
 
